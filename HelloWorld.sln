@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primer proyecto de formularios en Visual C Sharp", "Primer proyecto de formularios en Visual C Sharp\Primer proyecto de formularios en Visual C Sharp.csproj", "{A57903F5-9FE9-474C-BB77-6DB9C4574EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57903F5-9FE9-474C-BB77-6DB9C4574EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57903F5-9FE9-474C-BB77-6DB9C4574EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57903F5-9FE9-474C-BB77-6DB9C4574EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57903F5-9FE9-474C-BB77-6DB9C4574EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F65FBB3-AC48-42D1-828E-BC52467E9B94}
+	EndGlobalSection
+EndGlobal
